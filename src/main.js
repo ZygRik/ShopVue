@@ -5,6 +5,6 @@ import store from './store'
 import axios from 'axios'
 
 
-axios.defaults.baseURL = 'http://localhost:8000'
+axios.defaults.baseURL = 'https://kuluevn.pythonanywhere.com/api/v1/latest-products/'
 
 createApp(App).use(store).use(router, axios).mount('#app')
