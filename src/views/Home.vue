@@ -43,7 +43,7 @@ export default {
   },
   mounted () {
     this.getLatestProducts()
-    document.title = 'Главная|DeJaVue'
+    document.title = 'Главная|Онлайн магазин'
   },
   methods: {
     async getLatestProducts () {
