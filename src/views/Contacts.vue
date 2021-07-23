@@ -4,7 +4,7 @@
 
     <div class="content">
         <div class="title has-text-grey">
-            <h1 class="has-text-centered has-text-black-ter">Наши контакты:</h1>
+            <h3 class="has-text-centered has-text-black-ter">Наши контакты:</h3>
             <p is-size-6>
                 Адрес: г. Бишкек, ул. Горького 1Г, 
                 Торговый центр "Таш-Рабат", 2-й этаж,
