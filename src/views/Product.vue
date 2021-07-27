@@ -60,7 +60,7 @@ export default {
         .then(response =>{
           this.product = response.data
 
-          document.title = this.product.name + '|DeJaVue'
+          document.title = this.product.name + '| Онлайн магазин'
         })
         .catch(error => {
           console.log(error)
